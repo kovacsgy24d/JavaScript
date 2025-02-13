@@ -1,6 +1,6 @@
 # JavaScript
 
-# címsor2
+
 
 
 
@@ -34,3 +34,17 @@ forditoprogram (complier) segitsegevel
  - Python phyton.exe
  - PPH php.exe
 - JavaScript böngésző 
+
+## JavaScript kód beágyazása HTML-be
+  1. `<script>` tag-ek közé tesszül
+  2. script.js fájlba, ` <script src="script.js"></script>`
+
+```JavaScript
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+```
+
+
+
+
