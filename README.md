@@ -43,8 +43,12 @@ forditoprogram (complier) segitsegevel
 function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
-```
+```   
 
+## 1.2 Section 2 – Setting up programming environment
+fejlesztokornyezet
+- code editor (Vscode)
+-complier vagy interpreter
 
 
 
